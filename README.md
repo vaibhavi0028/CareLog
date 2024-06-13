@@ -62,5 +62,5 @@ npm start
 
 Vaibhavi - [@LinkedIn](https://www.linkedin.com/in/vaibhavi0028/) - vaibhavipandey2874@gmail.com
 
-Project Link: [https://github.com/vaibhavi0028/EmoSense](https://github.com/vaibhavi0028/EmoSense)
+Project Link: [https://github.com/vaibhavi0028/CareLog](https://github.com/vaibhavi0028/CareLog)
 
