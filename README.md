@@ -1,5 +1,8 @@
-# CareLog Website
-
+<div align='center'>
+  <h1>CareLog</h1>
+  <p>View the website here : <a href="https://carelog-vaibhavi.vercel.app/" style="color: inherit; text-decoration: none;">https://carelog-vaibhavi.vercel.app/</a></p>
+</div>
+<br />
 This repository contains the source code for the CareLog website, which is a web application for managing medical treatments and appointments.
 
 ## Features
